@@ -10,3 +10,19 @@ The dashboard provides insights into deficits, surpluses, and overall regional t
 - To highlight regional trends and sustainability challenges.
 
 - To provide actionable recommendations for improving fiscal stability.
+
+# Methodology
+
+- **Data Source:** Fiscal data collected from country-level financial records.
+
+- ** Visualization Tools:** Interactive dashboard with bar charts, line charts, maps, and summary cards.
+
+Metrics Analyzed:
+
+Net fiscal balance (aggregate deficit/surplus).
+
+Largest deficit and surplus by country.
+
+Number of countries in deficit vs. surplus.
+
+Trends across years (2021–2025).
