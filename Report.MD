@@ -15,14 +15,30 @@ The dashboard provides insights into deficits, surpluses, and overall regional t
 
 - **Data Source:** Fiscal data collected from country-level financial records.
 
-- ** Visualization Tools:** Interactive dashboard with bar charts, line charts, maps, and summary cards.
+- **Visualization Tools:** Interactive dashboard with bar charts, line charts, maps, and summary cards.
 
-Metrics Analyzed:
+- **Metrics Analyzed:**
 
-Net fiscal balance (aggregate deficit/surplus).
+  - Net fiscal balance (aggregate deficit/surplus).
 
-Largest deficit and surplus by country.
+  - Largest deficit and surplus by country.
 
-Number of countries in deficit vs. surplus.
+ - Number of countries in deficit vs. surplus.
 
-Trends across years (2021–2025).
+ - Trends across years (2021–2025).
+
+# Key Findings
+
+- **Overall Position:** Africa’s combined fiscal balance is **($220.84M)**, showing a significant regional deficit.
+
+- **Deficit Leaders:**
+
+  - Nigeria dominates with **($199M)**, accounting for nearly **90%** of the total deficit.
+
+  - Egypt ($16M) and South Africa **($4M)** also contribute notable shortfalls.
+
+- **Surplus Contributors:**
+
+  - Only South Africa **($77K)** and Ghana **($8K)** record meaningful surpluses.
+
+  - Total surplus across all countries is just **$3.64M**, far below the deficit total.
