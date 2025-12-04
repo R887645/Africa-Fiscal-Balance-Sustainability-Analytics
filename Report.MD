@@ -44,6 +44,7 @@ This separation followed a star schema design, improving efficiency and clarity 
   - Applied logic to ensure only countries with positive surplus values were counted, aligning cards with table outputs.
 
 - **Visualization Tools:** Interactive dashboard with bar charts, line charts, maps, and summary cards.
+**[View My Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjliZWZkZjktNTVkNC00MzcyLWJjODEtZmE4ZDkyYjc4M2EyIiwidCI6ImZjY2Y0MmRmLTE2ZDktNGU4Ny1hNmUwLWU0OTYyMjAxN2Y3NCJ9)**
 
 - **Metrics Analyzed:**
 
