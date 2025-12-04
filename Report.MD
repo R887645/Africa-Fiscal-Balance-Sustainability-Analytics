@@ -3,10 +3,10 @@ Fiscal balance is a key indicator of economic sustainability, reflecting the dif
 The dashboard provides insights into deficits, surpluses, and overall regional trends, enabling policymakers and stakeholders to assess fiscal health and sustainability.
 
 # Objectives
--- To evaluate the fiscal balance of African countries over time.
+- To evaluate the fiscal balance of African countries over time.
 
--- To identify countries with the largest deficits and surpluses.
+- To identify countries with the largest deficits and surpluses.
 
--- To highlight regional trends and sustainability challenges.
+- To highlight regional trends and sustainability challenges.
 
--- To provide actionable recommendations for improving fiscal stability.
+- To provide actionable recommendations for improving fiscal stability.
