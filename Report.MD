@@ -1,7 +1,10 @@
 # Introduction
 This project was assigned to me as part of the **2025** Hackathon Program organized by 10alytics, which challenged participants to apply data analytics and visualization skills to real‑world economic issues. My focus was on Africa’s Fiscal Balance and Sustainability, analyzing the fiscal health of selected African countries between 2021 and 2025. The work followed a complete analytics workflow, beginning with data cleaning to ensure accuracy and consistency, followed by the separation of fact and dimension tables to build a robust star schema.
+
 I then carried out data modelling to establish relationships between fiscal balances, countries, and years, and applied DAX analysis to create measures such as Net Fiscal Balance, Total Surplus, and Countries in Deficit/Surplus. Finally, I designed an interactive Power BI dashboard to visualize deficits, surpluses, and fiscal trends, providing actionable insights into Africa’s fiscal sustainability challenges.
-Fiscal balance is a key indicator of economic sustainability, reflecting the difference between government revenues and expenditures. A surplus indicates fiscal strength, while a deficit signals potential vulnerability. This project leverages the Africa Fiscal Balance & Sustainability Dashboard to analyze the fiscal positions of selected African countries between **2021 and 2025.** 
+Fiscal balance is a key indicator of economic sustainability, reflecting the difference between government revenues and expenditures. A surplus indicates fiscal strength, while a deficit signals potential vulnerability. 
+
+This project leverages the Africa Fiscal Balance & Sustainability Dashboard to analyze the fiscal positions of selected African countries between **2021 and 2025.** 
 The dashboard provides insights into deficits, surpluses, and overall regional trends, enabling policymakers and stakeholders to assess fiscal health and sustainability.
 
 # Objectives
@@ -44,6 +47,7 @@ This separation followed a star schema design, improving efficiency and clarity 
   - Applied logic to ensure only countries with positive surplus values were counted, aligning cards with table outputs.
 
 - **Visualization Tools:** Interactive dashboard with bar charts, line charts, maps, and summary cards.
+
 **[View My Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjliZWZkZjktNTVkNC00MzcyLWJjODEtZmE4ZDkyYjc4M2EyIiwidCI6ImZjY2Y0MmRmLTE2ZDktNGU4Ny1hNmUwLWU0OTYyMjAxN2Y3NCJ9)**
 
 - **Metrics Analyzed:**
