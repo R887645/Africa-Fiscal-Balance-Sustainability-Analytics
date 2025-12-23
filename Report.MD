@@ -48,7 +48,7 @@ This separation followed a star schema design, improving efficiency and clarity 
 
 - **Visualization Tools:** Interactive dashboard with bar charts, line charts, maps, and summary cards.
 
-**[View My Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjliZWZkZjktNTVkNC00MzcyLWJjODEtZmE4ZDkyYjc4M2EyIiwidCI6ImZjY2Y0MmRmLTE2ZDktNGU4Ny1hNmUwLWU0OTYyMjAxN2Y3NCJ9)**
+![My image Description](https://github.com/R887645/Africa-Fiscal-Balance-Sustainability-Analytics/blob/main/Real%20real%20Fiscal%20balance%20analysis%20dasboard.png?raw=true)
 
 - **Metrics Analyzed:**
 
@@ -92,6 +92,9 @@ This separation followed a star schema design, improving efficiency and clarity 
 - Stronger recovery in **2025**, suggesting cautious optimism.
 
 - **Geographic Spread:** Deficits are concentrated in larger economies, while surpluses are limited to smaller contributions.
+
+**[View My Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjliZWZkZjktNTVkNC00MzcyLWJjODEtZmE4ZDkyYjc4M2EyIiwidCI6ImZjY2Y0MmRmLTE2ZDktNGU4Ny1hNmUwLWU0OTYyMjAxN2Y3NCJ9)**
+
 
 # Recommendations
 - Strengthen Fiscal Discipline in major economies like Nigeria and Egypt through tighter budget controls and improved revenue collection.
